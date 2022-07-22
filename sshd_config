@@ -1,0 +1,3 @@
+PermitRootLogin no
+MaxAuthTries 2
+Port 4242
