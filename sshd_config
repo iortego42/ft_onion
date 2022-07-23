@@ -1,3 +1,4 @@
 PermitRootLogin no
+LoginGraceTime 5m
 MaxAuthTries 3
 Port 4242
